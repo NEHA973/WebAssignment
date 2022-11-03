@@ -1,1 +1,39 @@
 /* start your css here */
+.connertor{
+    background-color: black;
+    height: 700px;
+    width: 700px;
+}
+h1{
+    color:white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+ 
+#name{
+    height: 50px;
+    width: 90%;
+}
+#surname{
+    height: 50px;
+    width: 90%;  
+}
+#Email{
+    height: 50px;
+    width: 90%;
+}
+#Birthday{
+    height: 50px;
+    width: 90%;  
+}
+p{
+    color:aliceblue;
+    font-size: x-large;
+}
+#btn{
+  height: 5%;
+  width: 20%;  
+  background-color: black;
+  color: aliceblue;
+  border: solid white 2px;
+  cursor: pointer;
+}
