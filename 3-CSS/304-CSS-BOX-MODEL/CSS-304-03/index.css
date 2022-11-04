@@ -1,1 +1,10 @@
-/* start your css here */
+.fig{
+    height: 350px;
+
+}
+p{
+    font-size: medium;
+    color:rgb(87, 86, 86);
+    margin: 50px;
+    
+}
